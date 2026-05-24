@@ -1,0 +1,1 @@
+Developed two Bash automation scripts — one for reminder management (adding, deleting, and formatting entries in a structured text file) and another for real-time system monitoring with GUI notifications on local and remote machines via SSH.
